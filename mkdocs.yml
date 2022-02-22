@@ -1,3 +1,5 @@
 site_name: CoreNIC Sample
 theme:
     name: readthedocs
+extra_css:
+    - css/extra.css

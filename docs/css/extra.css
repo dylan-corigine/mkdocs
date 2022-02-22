@@ -1,0 +1,54 @@
+.hljs-meta{
+color:black;
+}
+
+.hljs-comment{
+    color:black;
+    font-weight: normal;
+}
+
+.hljs-attribute{
+    color:black;
+}
+
+.hljs-number{
+    color:black;
+}
+
+.hljs-name{
+    color:black;
+}
+
+.hljs-attr{
+    color:black !important;
+}
+
+.hljs-literal{
+    color:black;
+}
+
+.hljs-keyword, .hljs-selector-tag, .hljs-subst {
+font-weight: normal;
+}
+
+.hljs-doctag, .hljs-string {
+    color: black;
+}
+
+.hljs-meta {
+    font-weight: normal;
+}
+
+.hljs-built_in, .hljs-builtin-name {
+    color: black;
+}
+
+.rst-content code {
+    color: black;
+    
+}
+
+.rst-content pre code {
+    color: #000;
+    background: #eeffcc;
+}
